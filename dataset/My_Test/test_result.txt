@@ -1,0 +1,9 @@
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-06-25 20:19:43
+Test img hz_front1.jpg has density count of:95392.63
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-06-25 20:21:32
+Test img hz_front1.jpg has density count of:95336.766
+----------------------------------------------------------------
+Testing Result Recorded at: 2019-06-25 20:24:29
+Test img hz_front1.jpg has density count of:95362.38
